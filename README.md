@@ -31,11 +31,27 @@
 
 ---
 
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEHANDIKITRIANSYAH12&theme=algolia&column=7&margin-w=5" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEHANDIKITRIANSYAH12&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEHANDIKITRIANSYAH12&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEHANDIKITRIANSYAH12&layout=compact&theme=tokyonight" />
 </p>
 
 ---
