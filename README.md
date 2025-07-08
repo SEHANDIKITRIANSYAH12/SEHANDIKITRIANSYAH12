@@ -18,7 +18,7 @@
 ### 🧠 Programming Languages I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,go,html,css,c,cpp" />
 </p>
 
 ---
@@ -38,8 +38,6 @@
 </p>
 
 ---
-
-
 
 ### 📈 Top Languages
 
